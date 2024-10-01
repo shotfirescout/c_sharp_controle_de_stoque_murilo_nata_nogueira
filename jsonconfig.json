@@ -1,0 +1,15 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+
+  "Server": "localhost",
+  "Database": "estoque",
+  "Uid": "root",
+  "Password": "faesp@24"
+}
