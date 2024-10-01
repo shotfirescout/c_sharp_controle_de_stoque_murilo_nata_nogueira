@@ -11,5 +11,5 @@
   "Server": "localhost",
   "Database": "estoque",
   "Uid": "root",
-  "Password": "faesp@24"
+  "Password": "<Coloque sua senha do Mysql aqui>"
 }
